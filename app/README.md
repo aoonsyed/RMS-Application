@@ -1,4 +1,4 @@
-# ProShop eCommerce Platform
+# RMS Platform
 
 > A Restaurant Management System built with the MERN stack & Redux.
 
